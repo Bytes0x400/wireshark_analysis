@@ -1,0 +1,29 @@
+# Data manipulation and analysis library
+pandas
+
+# HTTP library for making requests
+requests
+
+# Plotting library for creating visualizations
+matplotlib
+
+# Jupyter Notebook format support
+nbformat
+
+# Jupyter Notebook conversion
+nbconvert
+
+# Standard library modules (do not need to be installed via pip)
+# sys
+# os
+# datetime
+# ipaddress
+# warnings
+
+# Library for creating pretty tables in the terminal
+PrettyTable
+
+# Instructions:
+# 1. To install the required packages, run the following command in your terminal:
+#    pip install -r /Users/ajoshi/GH/wireshark_analysis/requirements.txt
+# 2. The standard library modules (sys, os, datetime, ipaddress, warnings) are included in Python's standard library and do not need to be installed via pip.
