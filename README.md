@@ -119,7 +119,7 @@ The 'results' and the 'results/plots' folders will be created first time you run
 7. Open the analysis.ipynb notebook and confirm the capture file csv location is accurate.
 8. Go to the terminal and from within the scripts directory run "python notebook_run.py"
 
-![Wireshark Analysis Video](https://github.com/Bytes0x400/wireshark_analysis/blob/capture.gif)
+![Wireshark Analysis Video](https://github.com/Bytes0x400/wireshark_analysis/blob/main/capture.gif)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change. Make sure to update tests as appropriate.
