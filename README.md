@@ -8,7 +8,6 @@ Quick analysis of a  wireshark capture.
 - [Project Structure](#project-structure)
 - [Description](#description)
 - [Installation](#installation)
-- [DNS Resolution (Optional)](#dns-resolution-optional)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
